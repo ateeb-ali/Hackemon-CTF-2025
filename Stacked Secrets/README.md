@@ -27,7 +27,7 @@ This is a classic RSA encryption challenge.
 Since both the private key and the ciphertext are provided, all that’s left is to decrypt the message.
 
 2- Use a tool to decrypt RSA:
-Visit [AnyCrypt](https://anycrypt.com/) or any RSA decryption tool that allows importing a private key.
+Visit [AnyCript](https://anycript.com/) or any RSA decryption tool that allows importing a private key.
 Paste the private key and the encrypted message.
 The tool will decrypt the message and give you a hex string output.
 
