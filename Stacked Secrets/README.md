@@ -15,8 +15,8 @@ Hint: which cipher requires Ps & Qs?
 ### 🔍 Challenge Analysis
 We are given three blocks:
 
-An RSA public key
-An RSA private key
+An RSA public key,
+An RSA private key,
 An encrypted message
 
 The title and hint suggest we’re dealing with a standard RSA encryption. The mention of “Ps & Qs” hints towards RSA, where P and Q are the two large primes used to generate the key.
