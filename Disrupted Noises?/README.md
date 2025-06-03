@@ -38,7 +38,7 @@ Use this tool: [CyberChef](https://gchq.github.io/CyberChef/)
 
 4. **Decryption Output**  
 Applying ROT13 with a shift of `-47` gives you:
-S0MEFLAGSAYEE@SYT0F1NDY3THARD
+S0MEFLAGSAREE@SYT0F1NDY3THARD
 
 5. **Final Touch: Format the Flag**  
 Add the required underscores and wrap it in the flag format: ACM{flag}
